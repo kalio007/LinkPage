@@ -4,7 +4,7 @@ import { RiTrademarkLine } from 'react-icons/ri'
 
 function MainPage() {
   return (
-    <div className="h-max w-full p-6 flex flex-col items-center mx-auto space-y-12 mt-20 max-w-md md:max-w-5xl md:space-y-2 md:p-10">
+    <div className="h-max w-full p-6 flex flex-col items-center mx-auto space-y-12 mt-15 max-w-md md:max-w-5xl md:space-y-2 md:p-10">
       
       <div className='bg-[#110CC1] shadow-3xl flex mt-20 md:mb-6 px-8 py-3'>
        <p className='text-[#FFFFFF] text-2xl  font-prime m-0 font-bold md:text-4xl '>futuredays </p>
