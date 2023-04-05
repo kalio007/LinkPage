@@ -11,14 +11,14 @@ function MainPage() {
        <RiTrademarkLine size={15} color='#FFFFFF'/> 
       </div>
       
-        <div className='font-prime md:text-xl text-center'>
-        <p clasName='text-[#000] text-xs text-center p-6 '>A loose crypto collective working to accelerate progress towards the future.</p>
+        <div className='font-prime text-sm md:text-xl text-center'>
+          <p clasName='text-[#000] text-sm text-center p-6 '>A loose crypto collective working to accelerate progress towards the future.</p>
         </div>
         <div className='border-dotted border-[1px] border-black w-full p-6 h-96'>
           <h2 className='text-lg text-[#110CC1] font-extrabold my-3 font-prime md:text-xl md:font-bold' >PROJECTS</h2>
-          <div className='font-prime md:text-xl flex items-center'>
+          <div className='font-prime  flex items-center'>
           <BiPlay color='#110CC1 ' size={15} />
-            <p className=''>  <a href='//unison.gg'>unison</a> - asset management platform.</p> 
+            <p className='text-sm md:text-xl'>  <a href='//unison.gg'>unison</a> - asset management platform.</p> 
         </div>
       </div>
     </div>
