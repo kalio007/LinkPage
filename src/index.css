@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: #dbdbdb
+}
+a{
+    color: #110CC1;
+    text-decoration: underline;
+}
